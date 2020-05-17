@@ -678,6 +678,7 @@ id barrier
 id beginning
 id blocking
 id bottom
+id btnGet
 id buttonPanel
 id center
 id center_horizontal
@@ -785,6 +786,8 @@ id titleDividerNoCustom
 id title_template
 id top
 id topPanel
+id txtBody
+id txtTitle
 id uniform
 id up
 id useLogo
