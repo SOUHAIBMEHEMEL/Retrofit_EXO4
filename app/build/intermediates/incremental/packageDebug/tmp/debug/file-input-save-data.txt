@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun May 17 23:12:51 WAT 2020
+#Mon May 18 03:05:18 WAT 2020
 1.base=C\:\\Users\\MAS\\Desktop\\2CS-SIL\\TDM2\\Serie2\\Retrofit_EXO4\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\2
 2.path=classes.dex
 0.baseType=DIRECTORY
